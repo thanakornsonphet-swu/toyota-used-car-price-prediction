@@ -2,7 +2,7 @@
 
    
 
-## 📄 Project Overview
+## Project Overview
 
 **SWU Motors**, a growing used car dealership, is facing a critical business problem: **Sales have dropped by 18%** due to pricing errors committed by inexperienced junior sales staff.
 
