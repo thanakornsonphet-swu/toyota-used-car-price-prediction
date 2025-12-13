@@ -17,7 +17,7 @@
 * **Visualization:** Tableau Dashboard (Market Insights & Pricing Tool)
 * **Machine Learning:** Python (Scikit-Learn)
     * *Baseline Model:* Linear Regression (Lasso)
-    * *Final Model:* **Random Forest Regressor** (GridSearchCV Optimized)
+    * *Final Model:* Random Forest Regressor (GridSearchCV Optimized)
 
 ### 🏆 Key Results
 | Model | RMSE (Error) | Result |
@@ -30,18 +30,10 @@
 ---
 
 ### 📂 Repository Structure
-* `notebooks/`: ไฟล์ Jupyter Notebook สำหรับทำ Model Training
+* `notebooks/`: ไฟล์ Google Colab สำหรับทำ Model Training
 * `data/`: ชุดข้อมูล `toyota.csv`
 * `presentation/`: สไลด์นำเสนอโปรเจกต์ (PDF)
 * `tableau/`: ไฟล์ Dashboard หรือรูปภาพกราฟสำคัญ
-
----
-
-### 👥 Team Members
-**SWU MSDS (Data Science)**
-* ธนกร ส. (ID: 68199160268)
-* จตุพร ต. (ID: 68199160255)
-* อาภากร ก. (ID: 68199160310)
-
+  
 ---
 *Created: December 2025*
