@@ -29,7 +29,7 @@
 ## กระบวนการทำงาน (Data Analytics)
 
 ### 1. เตรียมข้อมูล / กรองข้อมูล (Data Preparation)
-[![Screenshot-2568-12-14-at-14-26-07.png](https://i.postimg.cc/jdZZzPgw/Screenshot-2568-12-14-at-14-26-07.png)](https://postimg.cc/kBRQC6dq)
+[![Screenshot-2568-12-14-at-14-27-34.png](https://i.postimg.cc/NFNmr7sF/Screenshot-2568-12-14-at-14-27-34.png)](https://postimg.cc/RJHNktnx)
 * **เครื่องมือ:** Excel (Power Query), Data Analysis Toolpak
 * **กระบวนการ:** Cleaning ใช้ Power Query ตรวจสอบ Data Type, Trim ช่องว่าง, ลบข้อมูลซ้ำ
 * **ตรวจสอบความผิดปกติ (Data Profiling):** Valid ควรเป็น 100% ไม่มี Error หรือ Empty
@@ -38,7 +38,7 @@
 ### 2. หา Insights จาก Dataset (EDA)
 
 #### 2.1 Distribution of Car Prices
-[Screenshot-2568-12-14-at-14-19-06.png](https://postimg.cc/gLPMhVpD)
+[![Screenshot-2568-12-14-at-14-26-07.png](https://i.postimg.cc/jdZZzPgw/Screenshot-2568-12-14-at-14-26-07.png)](https://postimg.cc/kBRQC6dq)
 เราทำการพรอตกราฟ เพื่อดูการกระจายราคา ค้นพบว่า:
 * การกระจายราคาตลาดเป็นแบบ **เบ้ขวา (Right Skewed)**
 * ข้อมูลรถยนต์ Toyota ส่วนใหญ่เป็น รถราคาประหยัด £9,995 แต่ค่าเฉลี่ยตลาดถูกดึงให้สูงเกินจริงจากรถยนต์ราคาสูงเพียงส่วนน้อย
